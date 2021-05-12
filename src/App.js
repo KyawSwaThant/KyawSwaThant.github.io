@@ -32,9 +32,9 @@ function App() {
                     </ul>
                 </div>
                 <div className="col-md">
-                    <a className="btn btn-social-icon btn-facebook" href="https://google.com"><i className="fa fa-facebook fa-lg"></i></a>
-                    <a className="btn btn-social-icon btn-gmail" href="https://google.com"><i className="fa fa-envelope fa-lg"></i></a>
-                    <a className="btn btn-social-icon btn-twitter" href="https://google.com"><i className="fa fa-twitter fa-lg"></i></a>
+                    <a className="btn btn-social-icon btn-facebook" href="https://www.facebook.com/kyawswar.thant.549"><i className="fa fa-facebook fa-lg"></i></a>
+                    <a className="btn btn-social-icon btn-gmail" href="https://gmail.com"><i className="fa fa-envelope fa-lg"></i></a>
+                    <a className="btn btn-social-icon btn-twitter" href="https://twitter.com/SwarThanr"><i className="fa fa-twitter fa-lg"></i></a>
                 </div>
               </div>
             </div>
